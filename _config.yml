@@ -13,11 +13,12 @@ description: >
 # Build settings
 
 theme: minima
-skin: dark
+remote_theme: jekyll/minima@3cdd14d
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Theme-specific settings
 
