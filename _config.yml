@@ -13,6 +13,7 @@ description: >
 # Build settings
 
 theme: minima
+minima:
 skin: dark
 
 plugins:
