@@ -26,7 +26,8 @@ minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
-  # date_format: "%b %-d, %Y"
+  date_format: "%b %-d, %Y"
+  skin: dark
 
   # Generate social links in footer.
   #
